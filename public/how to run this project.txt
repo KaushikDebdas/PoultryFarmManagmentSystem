@@ -1,0 +1,9 @@
+1. Open xampp and start the apache and mysql server, also note the port number of apache and mysql sever.
+
+2. copy this folder to the htdocs website and rename for example 'P'
+
+3. Go to, https://localhost:80/phpmyadmin and import the database from the .sql file.
+
+4. In the brower, then use any of the url to access the website.
+    a) https://localhost:80/mysite/login.php
+    b) https://localhost:80/mysite/signup.php
